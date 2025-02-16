@@ -2,7 +2,7 @@
 Documenting my progress in mastering automation testing tools and frameworks.
 
 ## **About This Repository**  
-This repository reflects my self-paced learning journey in QA automation, guided by Udemy courses and hands-on practice. While I cannot share proprietary code from my internship or course materials, this README outlines my projects, challenges, and key learnings.  
+This repository reflects my self-paced learning journey in QA automation, guided by Udemy courses and hands-on practice and internship mentors. While I cannot share proprietary code from my internship or course materials, this README outlines my projects, challenges, and key learnings.  
 
 ---
 
