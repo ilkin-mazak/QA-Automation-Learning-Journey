@@ -37,25 +37,23 @@ This repository reflects my self-paced learning journey in QA automation, guided
 
 ## **Udemy Certifications**  
 - [Playwright: Web Automation Testing From Zero to Hero](link-to-certificate)  
-- [Selenium Java Test Framework & Best Practices – Masterclass](link-to-certificate)  
-- [The Complete 2025 Software Testing Bootcamp](link-to-certificate)  
+- [Selenium WebDriver with Java - Basic to Advanced + Frameworks (56 total hours)]([https://www.udemy.com/certificate/UC-57cb308d-3167-46de-a41d-8c543a6d533f/])  
+- [The Complete 2025 Software Testing Bootcamp]([link-to-certificate](https://www.udemy.com/certificate/UC-e26b933f-c560-474c-b23d-878ddb92de4b/))
+- []
 
 ---
 
 ## **Future Goals**  
-- Build a custom automation framework for a public website (e.g., Wikipedia, GitHub).  
+- Currently building a highly customizable automation framework as my Bachelor thesis project.  
 - Integrate AI tools for test case generation and analysis.  
-- Contribute to open-source QA tools/documentation.  
 
 ---
 
 ## **Why No Code?**  
 - **Course Policy:** The Udemy instructor’s code is proprietary and cannot be shared publicly.  
 - **Internship NDA:** My work at Digital.ai involves confidential automation scripts.  
-- **Ethical Practice:** I prioritize originality and respect intellectual property.  
-
 ---
 
 📫 **Let’s Connect!**  
-- **LinkedIn:** [Your LinkedIn Profile](link)  
+- **LinkedIn:** [Ilkin Mazakoghlu](https://www.linkedin.com/in/ilkin-mazakoghlu/](https://www.linkedin.com/in/ilkin-mazakoghlu/)) 
 - **Email:** ilkin.mazak@gmail.com  
