@@ -36,10 +36,9 @@ This repository reflects my self-paced learning journey in QA automation, guided
 ---
 
 ## **Udemy Certifications**  
-- [Playwright: Web Automation Testing From Zero to Hero](link-to-certificate)  
-- [Selenium WebDriver with Java - Basic to Advanced + Frameworks (56 total hours)]([https://www.udemy.com/certificate/UC-57cb308d-3167-46de-a41d-8c543a6d533f/])  
-- [The Complete 2025 Software Testing Bootcamp]([link-to-certificate](https://www.udemy.com/certificate/UC-e26b933f-c560-474c-b23d-878ddb92de4b/))
-- []
+- [Selenium WebDriver with Java - Basic to Advanced + Frameworks (56 total hours)](http://ude.my/UC-57cb308d-3167-46de-a41d-8c543a6d533f)
+- [The Complete Software Testing Bootcamp: Manual + Automation Basics (35 total hours)](https://www.udemy.com/certificate/UC-e26b933f-c560-474c-b23d-878ddb92de4b/)
+- [Crash Course: Build a Full-Stack Web App in a Weekend!](http://ude.my/UC-b07ed796-5fe6-41d0-8d50-76146e9917f7)
 
 ---
 
@@ -55,5 +54,5 @@ This repository reflects my self-paced learning journey in QA automation, guided
 ---
 
 📫 **Let’s Connect!**  
-- **LinkedIn:** [Ilkin Mazakoghlu](https://www.linkedin.com/in/ilkin-mazakoghlu/](https://www.linkedin.com/in/ilkin-mazakoghlu/)) 
+- **LinkedIn:** [Ilkin Mazakoghlu](https://www.linkedin.com/in/ilkin-mazakoghlu/)
 - **Email:** ilkin.mazak@gmail.com  
